@@ -6,6 +6,7 @@ Collection of LeetCode questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Adhyayan-Dimri/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Adhyayan-Dimri/DSA/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/Adhyayan-Dimri/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Adhyayan-Dimri/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
