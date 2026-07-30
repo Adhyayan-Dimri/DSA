@@ -6,6 +6,7 @@ Collection of LeetCode questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Adhyayan-Dimri/DSA/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/Adhyayan-Dimri/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Adhyayan-Dimri/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Adhyayan-Dimri/DSA/tree/main/0233-number-of-digit-one/) | Hard |
@@ -17,6 +18,7 @@ Collection of LeetCode questions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Adhyayan-Dimri/DSA/tree/main/0050-powx-n/) | Medium |
 | [0233-number-of-digit-one](https://github.com/Adhyayan-Dimri/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
