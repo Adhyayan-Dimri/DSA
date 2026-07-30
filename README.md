@@ -45,6 +45,7 @@ Collection of LeetCode questions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/Adhyayan-Dimri/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Adhyayan-Dimri/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
