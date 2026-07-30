@@ -32,6 +32,7 @@ Collection of LeetCode questions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Adhyayan-Dimri/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/Adhyayan-Dimri/DSA/tree/main/0136-single-number/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adhyayan-Dimri/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
@@ -62,4 +63,8 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adhyayan-Dimri/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/Adhyayan-Dimri/DSA/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
