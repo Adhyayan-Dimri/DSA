@@ -6,11 +6,13 @@ Collection of LeetCode questions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Adhyayan-Dimri/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Adhyayan-Dimri/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Adhyayan-Dimri/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Adhyayan-Dimri/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Adhyayan-Dimri/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -40,4 +42,8 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Adhyayan-Dimri/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Adhyayan-Dimri/DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
