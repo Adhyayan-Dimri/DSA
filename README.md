@@ -25,10 +25,12 @@ Collection of LeetCode questions
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Adhyayan-Dimri/DSA/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Adhyayan-Dimri/DSA/tree/main/0190-reverse-bits/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Adhyayan-Dimri/DSA/tree/main/0136-single-number/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adhyayan-Dimri/DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
