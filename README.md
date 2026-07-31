@@ -10,6 +10,7 @@ Collection of LeetCode questions
 | [0050-powx-n](https://github.com/Adhyayan-Dimri/DSA/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/Adhyayan-Dimri/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Adhyayan-Dimri/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0231-power-of-two](https://github.com/Adhyayan-Dimri/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Adhyayan-Dimri/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@ Collection of LeetCode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Adhyayan-Dimri/DSA/tree/main/0050-powx-n/) | Medium |
+| [0231-power-of-two](https://github.com/Adhyayan-Dimri/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0233-number-of-digit-one](https://github.com/Adhyayan-Dimri/DSA/tree/main/0233-number-of-digit-one/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -30,6 +32,7 @@ Collection of LeetCode questions
 | ------- | ------- |
 | [0136-single-number](https://github.com/Adhyayan-Dimri/DSA/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Adhyayan-Dimri/DSA/tree/main/0190-reverse-bits/) | Easy |
+| [0231-power-of-two](https://github.com/Adhyayan-Dimri/DSA/tree/main/0231-power-of-two/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
